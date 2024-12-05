@@ -1,0 +1,26 @@
+From 146a433d3aeeab574977aa94eb8d9b135ba62704 Mon Sep 17 00:00:00 2001
+From: Aleksandar Duev <alexander.duev@gmail.com>
+Date: Thu, 5 Dec 2024 18:48:26 +0200
+Subject: [PATCH] first file line 2 and line 4 modified
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 00935f1..82eadb2 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,7 +1,7 @@
+ Line 1
+-Line 2
++Line 2 modified
+ Line 3
+-Line 4
++Line 4 modified
+ Line 5
+ Line 6
+ Line 7
+-- 
+2.43.0.windows.1
+
