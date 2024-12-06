@@ -3,8 +3,8 @@ Line 2 modified
 Line 3
 Line 4 modified
 Line 5
-Line 6
+Line 6 last-modification
 Line 7 another-modification
 Line 8 another-modification
-Line 9
+Line 9 last-modification
 Line 10
